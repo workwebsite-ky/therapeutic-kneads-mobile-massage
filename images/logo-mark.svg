@@ -1,0 +1,26 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Therapeutic Kneads emblem">
+  <circle cx="60" cy="60" r="58" fill="#12271F"/>
+  <circle cx="60" cy="60" r="52.5" fill="none" stroke="#C4A052" stroke-width="1.1" opacity="0.85"/>
+  <!-- central eucalyptus sprig: a calm, therapeutic botanical mark -->
+  <g stroke="#D8B968" stroke-width="2.1" stroke-linecap="round" fill="none">
+    <path d="M60 88 C60 74 60 58 60 40"/>
+    <!-- leaf pairs along the stem -->
+    <path d="M60 78 C51 76 45 70 43 62"/>
+    <path d="M60 78 C69 76 75 70 77 62"/>
+    <path d="M60 66 C52 64 47 58 46 51"/>
+    <path d="M60 66 C68 64 73 58 74 51"/>
+    <path d="M60 54 C53 52 49 47 48 41"/>
+    <path d="M60 54 C67 52 71 47 72 41"/>
+  </g>
+  <g fill="#D8B968" opacity="0.95">
+    <ellipse cx="41.5" cy="60" rx="4.7" ry="2.7" transform="rotate(-32 41.5 60)"/>
+    <ellipse cx="78.5" cy="60" rx="4.7" ry="2.7" transform="rotate(32 78.5 60)"/>
+    <ellipse cx="45" cy="49" rx="4.2" ry="2.4" transform="rotate(-30 45 49)"/>
+    <ellipse cx="75" cy="49" rx="4.2" ry="2.4" transform="rotate(30 75 49)"/>
+    <ellipse cx="48.5" cy="39" rx="3.7" ry="2.1" transform="rotate(-28 48.5 39)"/>
+    <ellipse cx="71.5" cy="39" rx="3.7" ry="2.1" transform="rotate(28 71.5 39)"/>
+    <circle cx="60" cy="34" r="3.4"/>
+  </g>
+  <!-- small monogram anchor -->
+  <text x="60" y="103" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#C4A052">TK</text>
+</svg>
